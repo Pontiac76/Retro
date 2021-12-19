@@ -15,3 +15,4 @@ This batch file will call on the cbmctrl application to completely wipe and form
 - Navigate to where FullFormat.bat lives on your system
 - Run FullFormat.bat and sit back.
 
+Sample Output: https://raw.githubusercontent.com/Pontiac76/Retro/main/ZoomFloppy/1571/FullFormat.Sample.txt
