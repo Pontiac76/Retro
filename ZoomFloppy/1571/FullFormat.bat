@@ -1,4 +1,5 @@
 @echo off
+# Download directly from PowerShell: Invoke-WebRequest "https://raw.githubusercontent.com/Pontiac76/Retro/main/ZoomFloppy/1571/FullFormat.bat"-o FullFormat.bat
 echo Formatting disk in whatever mode it's in; Show Status; Extend Format (40 Sectors)
 cbmforng -s -x 8 disk,id
 echo Hard reset the drive
